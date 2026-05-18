@@ -1,4 +1,3 @@
-![Metrics](github-metrics.svg)
 
 ## 🛠️ Tech Stack
 
@@ -16,3 +15,5 @@
 
 ### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=git,linux,vscode,nginx,grafana,prometheus&perline=9)](https://skillicons.dev)
+
+![Metrics](github-metrics.svg)
