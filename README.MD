@@ -1,7 +1,5 @@
-<table>
-<tr>
-<td valign="top" width="20%">
 
+![Metrics](github-metrics.svg)
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
@@ -23,11 +21,3 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</td>
-<td valign="top" width="70%">
-
-![Metrics](github-metrics.svg)
-
-</td>
-</tr>
-</table>
