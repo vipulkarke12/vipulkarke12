@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="20%">
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ![Metrics](github-metrics.svg)
 
