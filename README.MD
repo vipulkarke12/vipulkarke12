@@ -1,3 +1,6 @@
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## 🛠️ Tech Stack
 
@@ -16,4 +19,15 @@
 ### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=git,linux,vscode,nginx,grafana,prometheus&perline=9)](https://skillicons.dev)
 
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0459?style=for-the-badge&logo=argo&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
 ![Metrics](github-metrics.svg)
+
+</td>
+</tr>
+</table>
